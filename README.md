@@ -27,5 +27,5 @@ Fortalecer habilidades prácticas en Python para resolver problemas, analizar in
 
 ## Autor
 
-Brando Erazo Quiroz
+Brando Erazo Quiroz ,
 Estudiante de Ingeniería Mecánica
